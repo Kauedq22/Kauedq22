@@ -1,4 +1,3 @@
-    <link rel="stylesheet" href="./style.css"/>
 
 ## Ola, sou o Kauê.
 <div align="center">
@@ -19,7 +18,7 @@
   <div >
    <a href = "mailto:kauedq12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"align="left"></a>
   <a href="https://www.linkedin.com/in/kau%C3%AA-quadros-934aa71a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="right"></a> 
-    <a href = "mailto:kauedq12@gmail.com" target="_blank" id="aula">Gmail</a>
+
 
   ![Snake animation](https://github.com/Kauedq22/Kauedq22/blob/output/github-contribution-grid-snake.svg)
     
