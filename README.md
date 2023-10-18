@@ -26,8 +26,8 @@
   <a href="https://www.linkedin.com/in/kau%C3%AA-quadros-934aa71a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="right"></a> 
 
 
-  ![Snake animation](https://github.com/Kauedq22/Kauedq22/blob/output/github-contribution-grid-snake.svg)
-  ![Snake animation](https://github.com/Kauedq22/snake/blob/main/github-contribution-grid-snake.svg)
+
+  ![Snake animation](https://github.com/Kauedq22/Snake-Animation/blob/main/github-contribution-grid-snake.svg)
     
   </div>
   
