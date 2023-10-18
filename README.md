@@ -27,6 +27,7 @@
 
 
   ![Snake animation](https://github.com/Kauedq22/Kauedq22/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Kauedq22/snake/blob/main/github-contribution-grid-snake.svg)
     
   </div>
   
