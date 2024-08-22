@@ -2,10 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C0C0C0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Kauê+de+Quadros;I'm+23+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kauedq22&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauedq22&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kauedq22&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=codeSTACKr&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
+
+###
+
+###
 
 
 </div>
@@ -23,15 +26,13 @@
   
   ##
   
-  <div >
+  <div align="center">
    <a href = "mailto:kauedq12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"align="left"></a>
   <a href="https://www.linkedin.com/in/kau%C3%AA-quadros-934aa71a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="right"></a> 
 
 
 
   ![Snake animation](https://github.com/Kauedq22/Snake-Animation/blob/main/github-contribution-grid-snake.svg)
-
-  <img src="https://raw.githubusercontent.com/kauedq22/kauedq22/output/snake.svg" alt="Snake animation" />
 
     
   </div>
