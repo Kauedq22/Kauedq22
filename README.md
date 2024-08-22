@@ -30,6 +30,9 @@
 
 
   ![Snake animation](https://github.com/Kauedq22/Snake-Animation/blob/main/github-contribution-grid-snake.svg)
+
+  <img src="https://raw.githubusercontent.com/kauedq22/kauedq22/output/snake.svg" alt="Snake animation" />
+
     
   </div>
   
