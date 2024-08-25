@@ -27,7 +27,7 @@
   ##
   
   <div align="center">
-   <a href = "mailto:kauedq12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"align="left"></a>
+   <a href = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZWxNtxkbnkxDNMHkzGrdkBCHngGsFDlNSQGxnsbWmJjhmPGsDQKfCkkgxVlsNnfHWkLZg"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"align="left"></a>
   <a href="https://www.linkedin.com/in/kau%C3%AA-quadros-934aa71a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="right"></a> 
 
 
