@@ -37,7 +37,7 @@
 
 
 
-![Snake animation](https://raw.githubusercontent.com/kauedq22/kauedq22/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/kauedq22/Kauedq22/output/snake.svg)
 
 
     
